@@ -14,7 +14,7 @@ Discord bot that sends random images!
 
 > Command: `!imgb duck`
 
-**Output:**
+> **Output:**
 ![DuckExample](img/duckExample.png)
 
 
