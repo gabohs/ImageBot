@@ -6,7 +6,7 @@ import (
 )
 
 
-func MakeGetRequest(url string, target interface{}) error {
+func MakeGetRequest(url string, target any) error {
 	resp, err := http.Get(url)
 	if err != nil {
 		return err
